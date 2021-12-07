@@ -5,13 +5,11 @@
 
 <!-- - 🔭 I’m currently working on [task-board](https://github.com/WahidX/task-board) -->
 
-- 🌱 I’m currently learning **Next.js, GraphQL**
-
-- 💬 Ask me about **node, react**
+- 🌱 I’m currently working on **Microservices using Golang**
 
 - 📫 How to reach me **wahidxhossain@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tMchyaNlzfgZPYWqJlbrPx-JedObPFiL/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tMchyaNlzfgZPYWqJlbrPx-JedObPFiL/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
