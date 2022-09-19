@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidx&label=Profile%20views&color=0e75b6&style=flat" alt="wahidx" /> </p>
 
-- I’m currently working on [kafkax](https://github.com/WahidX/kafkax) -->
+- I’m currently working on [kafkax](https://github.com/WahidX/kafkax)
 
 - How to reach me **wahidxhossain@gmail.com**
 
