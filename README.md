@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidx&label=Profile%20views&color=0e75b6&style=flat" alt="wahidx" /> </p>
 
-<!-- - 🔭 I’m currently working on [task-board](https://github.com/WahidX/task-board) -->
+- I’m currently working on [kafkax](https://github.com/WahidX/kafkax) -->
 
-- 🌱 I’m currently working on **Microservices using Golang**
+- How to reach me **wahidxhossain@gmail.com**
 
-- 📫 How to reach me **wahidxhossain@gmail.com**
-
-<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tMchyaNlzfgZPYWqJlbrPx-JedObPFiL/view?usp=sharing) -->
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_GdYBtYpEXNQ-ghD8RwxVFHaSWPnrpZD/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
