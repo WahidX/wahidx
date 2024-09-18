@@ -8,7 +8,7 @@ A passionate Software Developer from India.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wahidxhossain@gmail.com)
 [![Github](https://img.shields.io/github/followers/wahidx?label=Follow&style=social)](https://github.com/wahidx)
 
-- I’m currently working on [kafkax](https://github.com/WahidX/kafkax)
+- I’m currently working on [go-mq](https://github.com/WahidX/go-mq)
 
 
 ### ⚙️ Tech Stack
