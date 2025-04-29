@@ -1,6 +1,6 @@
 # Wahid Hossain
 
-A passionate Software Developer from India.
+A passionate Software Engineer from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidx&label=Profile%20views&color=3D3D3D&style=flat" alt="wahidx" /> </p>
 
